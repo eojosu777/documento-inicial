@@ -2,7 +2,7 @@
 
 ## Integrantes 
 
-- Maria Isadora Fonseca Marques (Aluno 1)
+- Maria Isadora da Fonseca Marques (Aluno 1)
 - Josué Vinícius Freitas Ramos de Almeida (Aluno 2)
 - João Leonardo Camello Vasconcellos de Oliveira (Aluno 3)
 - Raymison Rafael Câmara da Silva (Aluno 4)
