@@ -1,12 +1,12 @@
-# App Ods 4
+# App ODS 4
 
 ## Integrantes 
 
 - Maria Isadora Fonseca Marques (Aluno 1)
 - Josué Vinícius Freitas Ramos de Almeida (Aluno 2)
-- João Leonardo Camello Vasconcelos (Aluno 3)
+- João Leonardo Camello Vasconcellos de Oliveira (Aluno 3)
 - Raymison Rafael Câmara da Silva (Aluno 4)
-- Lavinya Hadassa (Aluno 5)
+- Lavinya Hadassa de Oliveira Bezerra (Aluno 5)
 
 ## Objetivo do Projeto
 
@@ -20,7 +20,7 @@ Ele está relacionado com a ODS 4 (Educação de qualidade). Ela foi escolhida j
 
 As funções principais vão ser: Criar um cronograma de estudos, página de conteúdos, lista de exercícios para serem resolvidos e uma parte que vai mostrar o progresso. O público alvo são estudantes do ensino fundamental no geral. O app é diferente pois ele ajuda na disciplina do estudante e ele junta a prática com os conteúdos num lugar só, além dele possuir uma interface simples e de fácil entendimento.
 
-#Documentação inicial
+##Documentação inicial
 
 Visão Geral: consiste num aplicativo educacional desenvolvido para o auxílio  de estudantes na organização de seus estudos e na prática de exercícios por matéria e assunto. Ele permite que quem estiver usando planeje a rotina, acompanhe o progresso e reforce o aprendizado de forma simples
 
