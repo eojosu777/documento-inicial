@@ -25,3 +25,5 @@ As funções principais vão ser: Criar um cronograma de estudos, página de con
 Visão Geral: consiste num aplicativo educacional desenvolvido para o auxílio  de estudantes na organização de seus estudos e na prática de exercícios por matéria e assunto. Ele permite que quem estiver usando planeje a rotina, acompanhe o progresso e reforce o aprendizado de forma simples
 
 Requisitos funcionais: Permitir que o usuário crie um plano de estudos, registrar o progresso a medida que são resolvidas as tarefas e os conteúdos vistos, disponibilizar exercícios a ver com o assunto.
+
+Requisitos não funcionais: O app deve ter uma interface simples e de fácil entendimento, um carregamento rápido das telas, funcionar sem internet
