@@ -18,7 +18,7 @@ Ele está relacionado com a ODS 4 (Educação de qualidade). Ela foi escolhida j
 
 ## Ideia inicial do aplicativo 
 
-As funções principais vão ser: Criar um cronograma de estudos, página de conteúdos, lista de exercícios para serem resolvidos e uma parte que vai mostrar o progresso. O público alvo são estudantes do ensino fundamental no geral. O app é diferente pois ele ajuda na disciplina do estudante e ele junta a prática com os conteúdos num lugar só, além dele possuir uma interface simples e de fácil entendimento.
+As funções principais vão ser: Criar um cronograma de estudos, página de conteúdos, lista de exercícios para serem resolvidos e uma parte que vai mostrar o progresso. O público alvo são estudantes do ensino fundamental 2. O app é diferente pois ele ajuda na disciplina do estudante e ele junta a prática com os conteúdos num lugar só, além dele possuir uma interface simples e de fácil entendimento.
 
 ## Documentação inicial
 
