@@ -1,4 +1,4 @@
-# Educação Aqui
+# CORedação
 
 ## Integrantes 
 
@@ -10,20 +10,27 @@
 
 ## Objetivo do Projeto
 
-O objetivo do nosso projeto é criar um app que possa ajudar estudantes do ensino fundamental a se organizarem melhor nos estudos e praticarem exercícios. Ele contribuirá para a ODS 4 a medida que ele busca resolver problemas como a falta de planejamento e dificuldades de aprendizado a fim de uma educação eficiente e acessível 
+O objetivo do nosso projeto é criar um aplicativo que ajude estudantes a melhorarem suas habilidades de escrita, especialmente na produção de redações. O app busca auxiliar na organização das ideias, no aprendizado da estrutura textual e na prática constante, contribuindo para uma educação mais eficiente e acessível, em consonância com a ODS 4.
 
 ## Ods Relacionada 
 
-Ele está relacionado com a ODS 4 (Educação de qualidade). Ela foi escolhida justamente pelo aplicativo ter como objetivo ajudar estudantes a melhorar sua organização nos estudos e praticar conteúdos escolares, se relacionando diretamente com uma melhora na educação.
+O projeto está relacionado com a ODS 4 (Educação de Qualidade), pois tem como foco melhorar o aprendizado dos estudantes na área da escrita, desenvolvendo competências essenciais para a vida acadêmica, como interpretação, argumentação e organização de ideias.
 
 ## Ideia inicial do aplicativo 
 
-As funções principais vão ser: Criar um cronograma de estudos, página de conteúdos, lista de exercícios para serem resolvidos e uma parte que vai mostrar o progresso. O público alvo são estudantes do ensino fundamental 2. O app é diferente pois ele ajuda na disciplina do estudante e ele junta a prática com os conteúdos num lugar só, além dele possuir uma interface simples e de fácil entendimento.
-
+As funções principais serão: ensino da estrutura da redação (introdução, desenvolvimento e conclusão), correção de textos com base nas competências, sugestões de repertórios socioculturais, exercícios de prática e acompanhamento da evolução do aluno.
+O público-alvo são estudantes do ensino fundamental II e médio. O diferencial do aplicativo é reunir, em um só lugar, teoria, prática e correção, com uma interface simples e intuitiva, facilitando o aprendizado da escrita.
 ## Documentação inicial
 
-Visão Geral: consiste num aplicativo educacional desenvolvido para o auxílio  de estudantes na organização de seus estudos e na prática de exercícios por matéria e assunto. Ele permite que quem estiver usando planeje a rotina, acompanhe o progresso e reforce o aprendizado de forma simples
+Visão Geral: O aplicativo consiste em uma plataforma educacional voltada para o desenvolvimento da escrita, especialmente redações no modelo dissertativo-argumentativo. Ele permite que o usuário aprenda a estrutura do texto, pratique com temas variados e acompanhe seu progresso ao longo do tempo.
 
-Requisitos funcionais: Permitir que o usuário crie um plano de estudos, registrar o progresso a medida que são resolvidas as tarefas e os conteúdos vistos, disponibilizar exercícios a ver com o assunto.
+Requisitos funcionais: Ensinar a estrutura da redação (introdução, desenvolvimento e conclusão)
+Disponibilizar temas para prática de redação
+Corrigir textos com base em critérios (competências)
+Sugerir repertórios socioculturais
+Mostrar o progresso do usuário
 
-Requisitos não funcionais: O app deve ter uma interface simples e de fácil entendimento, um carregamento rápido das telas, funcionar sem internet
+Requisitos não funcionais: Interface simples e de fácil entendimento
+Carregamento rápido das telas
+Funcionamento offline para conteúdos básicos
+Navegação intuitiva
